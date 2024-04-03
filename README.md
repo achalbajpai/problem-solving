@@ -15,7 +15,7 @@ This repository contains my solutions to various problem-solving questions from 
 - Python3/Python
 - Java
 - C++
-- C
+- JavaScript
 
 ## Organization
 The solutions are organized by platform and language for easy navigation.
