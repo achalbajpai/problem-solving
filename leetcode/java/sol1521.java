@@ -1,4 +1,4 @@
-class sol1521 {
+class sol1512 {
     public int numIdenticalPairs(int[] nums) {
         int n = nums.length;
         int count = 0;
